@@ -1,4 +1,4 @@
-<img style="display: block; margin-left: auto; margin-right: auto;" src="./logo_Circ.png">
+<div align="center"> <img src="./logo_Circ.png"></div>
 
 # ProyectoFinalPP 
 Proyecto Final de la materia Practicas Profesionalizantes
